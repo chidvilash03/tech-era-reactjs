@@ -1,0 +1,17 @@
+.nav-container {
+  background-color: #f1f5f9;
+  padding: 30px;
+  height: 15vh;
+  width: 100vw;
+}
+
+.nav-logo {
+  width: 150px;
+  height: 70px;
+}
+.nav-btn {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline: none;
+}
